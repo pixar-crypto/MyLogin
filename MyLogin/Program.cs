@@ -14,6 +14,8 @@ namespace MyLogin
         [STAThread]
         static void Main()
         {
+            //Hallo rifqih
+            //panen furious kuyy
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
