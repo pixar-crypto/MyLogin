@@ -125,9 +125,9 @@
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(392, 248);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(155, 20);
+            this.label6.Size = new System.Drawing.Size(159, 20);
             this.label6.TabIndex = 6;
-            this.label6.Text = "syahrul sadasdkeren";
+            this.label6.Text = "syahrulssadasdkeren";
             // 
             // Form1
             // 
