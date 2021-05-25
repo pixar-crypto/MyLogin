@@ -36,6 +36,7 @@
             this.btnLogin = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -119,11 +120,21 @@
             this.label5.TabIndex = 6;
             this.label5.Text = "syahrul sadasdkeren";
             // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(392, 248);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(155, 20);
+            this.label6.TabIndex = 6;
+            this.label6.Text = "syahrul sadasdkeren";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(608, 458);
+            this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.btnLogin);
@@ -150,6 +161,7 @@
         private System.Windows.Forms.Button btnLogin;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label6;
     }
 }
 
